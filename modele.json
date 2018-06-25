@@ -1,0 +1,44 @@
+
+{"Revue":{
+ 	"Revue_schema"			:"modele/Revue_Schema.docx",
+ 	"Revue_routage"			:"modele/Revue_Routage.docx",
+ 	"Revue_Fin_de_Projet"	:"modele/Revue_Fin_de_Projet.docx",
+ 	"Revue_Lancement"		:"modele/Revue_Lancement.docx",
+ 	"Revue_Evolution"		:"modele/Revue_Evolution.docx"
+ 	},
+"setData":[
+	{
+	"code":"907-2543",
+	"revision":"A",
+	"CDP":"Ludovic DEPARIS",
+	"nom_produit":"TPR Connection unit - Daughter board",
+	"date_fin_routage":"17/07/2015",
+	"date":"17/07/2015",
+	"repertoire":"N:\\Etudes\\Hard\\Wireless charging WPC",
+	"code_cuivre": "160-5920",
+	"date_de_livraison":""
+	},
+	{
+	"code":"907-2489",
+	"revision":"E",
+	"CDP":"Ludovic DEPARIS",
+	"nom_produit":"Board for NFC antenna for MP500 TCL3",
+	"date_fin_routage":"24/07/2015",
+	"date":"30/07/2015",
+	"repertoire":"N:\\Etudes\\Produits\\Antennes\\907-2489 NFC Antenna  for MP500TCL3",
+	"code_cuivre": "",
+	"date_de_livraison":""
+	},
+	{
+	"code":"907-2452",
+	"revision":"C",
+	"CDP":"Ludovic DEPARIS",
+	"nom_produit":"NFC Antenna controller",
+	"date_fin_routage":"24/07/2015",
+	"date":"30/07/2015",
+	"repertoire":"N:\\Etudes\\Produits\\Antennes\\907-1306 NFC Test Antenna\\907-2452 - NFC Antenna controller",
+	"code_cuivre": "",
+	"date_de_livraison":""
+	}
+	]
+}
